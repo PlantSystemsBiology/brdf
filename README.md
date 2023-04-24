@@ -38,5 +38,5 @@ The scripts of fitting leaf-level BRDF.
 <p>Figure 5. The relationship between the ρ and σ of maize, populus, cotton and rice. ρ is obtained by RC based on the image of leaf section. σ is fitted by the BRDF model based on leaf. </p>
 
 ---
-<p>The primary objective of this software design was to enable the quantification of roughness parameters in the BRDF model of the leaf. In addition to determining the roughness of the leaf surface, the software can also extract other parameters, such as area, length, and circumference, for various objects. </p>
+<p>The primary objective of RC is to quantify the roughness parameters in the BRDF model of the leaf. The experimental results show that the measurement results are in good agreement with the actual results. The RC can be used as a tool to quantify the roughness of the blade. It provides the convenient tools for the accurate simulation of light distribution of leaves. In addition to determining the roughness of the leaf surface, the software can also extract other parameters, such as area, length, and circumference, for various objects. </p>
 
