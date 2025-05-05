@@ -1,9 +1,9 @@
 # Brdf
 The scripts of fitting leaf-level BRDF.
-# Roughness Calculator
-## download exe
+## Roughness Calculator
+### download exe
 [Roughness Calculator.exe](https://mdeve5-my.sharepoint.com/:f:/g/personal/smiler488_mdeve5_onmicrosoft_com/EinlQE3gEbJDkKV9QG6coBwBISQqmcEKQ1_H-DMzzM58Yw?e=ps2qZT)
-## Introduction
+### Introduction
 ![image](https://user-images.githubusercontent.com/76147378/233330409-13dd52e5-1afb-45a4-a0bc-552e8764b721.png)
 <p>RC (roughness calculator) is an open-source blade surface roughness calculation software based on python. RC aims to provide a way to quantify surface roughness parameters and accelerate the use of BRDF models in simulating leaf light distribution. As an open-source software, RC allows other users to modify code based on the original code.</p>
 #principle
@@ -39,4 +39,8 @@ The scripts of fitting leaf-level BRDF.
 
 ---
 <p>The primary objective of RC is to quantify the roughness parameters in the BRDF model of the leaf. The experimental results show that the measurement results are in good agreement with the actual results. The RC can be used as a tool to quantify the roughness of the blade. It provides the convenient tools for the accurate simulation of light distribution of leaves. In addition to determining the roughness of the leaf surface, the software can also extract other parameters, such as area, length, and circumference, for various objects. </p>
+
+## refine_grid
+
+refine_grid.py script is developed for fitting the BRDF model. 
 
